@@ -94,12 +94,6 @@ fc62cae3
 
 ---
 
-## 📄 Report
-
-> [Full PDF Report](docs/RISC-V.pdf) 
-
----
-
 ## 🙋‍♂ Authors
 
 Ali Mohamed  
